@@ -1,0 +1,14 @@
+{
+  "name": "04-web-server-example",
+  "version": "1.0.0",
+  "description": "Another example of an event driven program that is a web server that receives a request from a client and provides a response. The request is obtained from an unknown entity (a web client), at an arbitrary time instance in the future.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Elom Atsou Agboka <opentech.consult@gmail.com> (https://github.com/OpenTechConsult)",
+  "license": "MIT"
+}
