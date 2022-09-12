@@ -1,0 +1,14 @@
+{
+  "name": "web-page-access",
+  "version": "1.0.0",
+  "description": "An example of a program that make a request to a remote service, waits for the response, and performs an action with the response. The response is obtain from a known entity(website), but at an arbitrary time in the future, after request has been made.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Elom Atsou Agboka <opentech.consult@gmail.com> (https://github.com/OpenTechConsult)",
+  "license": "MIT"
+}
